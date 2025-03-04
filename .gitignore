@@ -5,7 +5,8 @@
 **/Build/
 **/BuildResults/
 **/AssetBundles/
-**/Packages/
+**/.vscode/
+
 
 # 忽略 Unity 编辑器生成的文件
 **/*.csproj
